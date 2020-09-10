@@ -6,7 +6,6 @@ var nav = document.getElementById('navbarr');
 var nombre = document.getElementById('nombree');
 var linea = document.getElementById('lineaa');
 menu.addEventListener('click', function(){
-    this.classList.toggle("abierta");
     nav.classList.toggle("abierta");
     burgerMenu1.classList.toggle("abierta");
     burgerMenu2.classList.toggle("abierta");
