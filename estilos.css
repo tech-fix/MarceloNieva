@@ -190,6 +190,7 @@ nav{
 main{
     background-color:  #272B2F;
     height: 100vh;
+    overflow: hidden;
 }
 
 /* servicios */
@@ -218,7 +219,7 @@ main{
     width: auto;
     height: 90px;
     position: relative;
-    top: 20vh;
+    top: 25vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -261,7 +262,7 @@ main{
     height: 150px;
     background: #E2D96A;
     border-radius: 0px 50px 50px 0px;
-    top: 20vh;
+    top: 30vh;
 }
 
 .info{
