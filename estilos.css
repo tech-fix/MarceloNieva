@@ -262,13 +262,13 @@ main{
     height: 150px;
     background: #E2D96A;
     border-radius: 0px 50px 50px 0px;
-    top: 30vh;
+    top: 28vh;
 }
 
 .info{
     width: 300px;
     height: 100px;
-    top: 35vh;
+    top: 30vh;
     align-items: center;
     justify-content: center;
     margin: auto;
